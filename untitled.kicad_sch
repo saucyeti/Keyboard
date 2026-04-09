@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "869c426c-646d-4244-8bb7-80f2576783b4")
 	(paper "User" 635 279.4)
+	(title_block
+		(title "Switch Matrix")
+	)
 	(lib_symbols
 		(symbol "Device:D"
 			(pin_numbers
