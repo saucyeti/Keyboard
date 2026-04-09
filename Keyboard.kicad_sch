@@ -5,7 +5,7 @@
 	(uuid "4e258039-970b-4f60-a35b-936f056b949f")
 	(paper "A4")
 	(title_block
-		(title "Keyboard")
+		(title "Switch Matrix")
 		(company "Darren Lin")
 		(comment 1 "65% keyboard")
 	)
@@ -7256,7 +7256,7 @@
 		)
 	)
 	(sheet
-		(at 151.765 186.055)
+		(at 146.685 187.325)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7272,7 +7272,7 @@
 		)
 		(uuid "832deb30-adf7-444b-aca3-bcf14660fc7c")
 		(property "Sheetname" "Switch Matrix"
-			(at 151.765 185.3434 0)
+			(at 146.685 186.6134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7280,8 +7280,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 151.765 190.4496 0)
+		(property "Sheetfile" "Switch_Matrix.kicad_sch"
+			(at 146.685 191.7196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
