@@ -1,4 +1,4 @@
-28528267734653853
+28535372998031381
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74732,6 +74732,13 @@ OLED-TH_L38.0-W12.0_HS91L02W2C01
 4
 4
 PCM_Mounting_Keyboard_Stabilizer
+Pushbuttonthing
+
+
+0
+6
+6
+PCM_Mounting_Keyboard_Stabilizer
 Stabilizer_Cherry_MX_2.00u
 Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
 Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
@@ -74770,6 +74777,13 @@ PCM_Mounting_Keyboard_Stabilizer
 Stabilizer_Cherry_MX_8.00u
 Cherry MX PCB Stabilizer 8.00u 9.00u 10.00u
 Cherry MX Keyboard Stabilizer 8.00u 9.00u 10.00u Cutout
+0
+0
+0
+PCM_Mounting_Keyboard_Stabilizer
+Untitled
+
+
 0
 0
 0
@@ -109928,6 +109942,13 @@ OLED-TH_L38.0-W12.0_HS91L02W2C01
 4
 4
 a
+Pushbuttonthing
+
+
+0
+6
+6
+a
 Stabilizer_Cherry_MX_2.00u
 Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
 Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
@@ -109966,6 +109987,13 @@ a
 Stabilizer_Cherry_MX_8.00u
 Cherry MX PCB Stabilizer 8.00u 9.00u 10.00u
 Cherry MX Keyboard Stabilizer 8.00u 9.00u 10.00u Cutout
+0
+0
+0
+a
+Untitled
+
+
 0
 0
 0
