@@ -7,7 +7,7 @@ Running QMK firmware
 
 
 
-!\[Layout](images/layout.png)
+!\[Layout](images/Layout.png)
 
 !\[3d view](images/3d.png)
 
