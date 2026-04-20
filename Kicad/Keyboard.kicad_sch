@@ -3529,16 +3529,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "fix this double check functioanlity maybe switch to alps encoder"
-		(exclude_from_sim no)
-		(at 162.56 98.806 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e1ffec17-58a9-4681-b488-7abf50fdd50b")
-	)
 	(junction
 		(at 53.34 29.21)
 		(diameter 0)
