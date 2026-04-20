@@ -18,7 +18,7 @@ Running QMK firmware
 
 \## Visuals
 
-!\[Layout](./images/Layout.png)
+!\[Layout](images/Layout.png)
 
-!\[3d view](./images/3d.png)
+!\[3d view](images/3d.png)
 
