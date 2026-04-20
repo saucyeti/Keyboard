@@ -561,7 +561,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Keyboard.net",
-      "plot": "C:/Users/darre/Downloads/",
+      "plot": "../output files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../3D_model.step",
