@@ -3529,16 +3529,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "FIX SDA SCL YOOOO SDA = PD1 \nPD0 = SCL "
-		(exclude_from_sim no)
-		(at 104.14 65.024 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c8e1f8e0-0a0c-4fd9-8c49-3c805e0a5b37")
-	)
 	(junction
 		(at 53.34 29.21)
 		(diameter 0)
@@ -8441,7 +8431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1pf"
+		(property "Value" "1uf"
 			(at 42.672 78.486 0)
 			(effects
 				(font
